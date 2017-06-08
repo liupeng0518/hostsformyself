@@ -1,5 +1,4 @@
-
-#20160316 更换hosts默认源为@sy619维护的广告源
+# create by liupeng
 
 127.0.0.1 localhost
 127.0.0.1 0.r.msn.com
